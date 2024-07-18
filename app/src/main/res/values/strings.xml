@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cat Chat</string>
+    <string name="inbox">Inbox</string>
+    <string name="help">Help</string>
+    <string name="sent_items">Sent Items</string>
+    <string name="support">Support</string>
+    <string name="cat">Cat</string>
+</resources>
